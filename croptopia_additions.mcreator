@@ -1,0 +1,408 @@
+{
+  "mod_elements": [
+    {
+      "name": "Bratwurst",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bratwurst"
+    },
+    {
+      "name": "BratwurstRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "bratwurst_recipe"
+    },
+    {
+      "name": "KrautDog",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kraut_dog"
+    },
+    {
+      "name": "KrautDogRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "kraut_dog_recipe"
+    },
+    {
+      "name": "Sauerkraut",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sauerkraut"
+    },
+    {
+      "name": "SauerkrautRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "sauerkraut_recipe"
+    },
+    {
+      "name": "ChickenCurry",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chicken_curry"
+    },
+    {
+      "name": "ChickenCurryRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "chicken_curry_recipe"
+    },
+    {
+      "name": "CurryPowder",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "curry_powder"
+    },
+    {
+      "name": "CurryPowderRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "curry_powder_recipe"
+    },
+    {
+      "name": "RiceFlour",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rice_flour"
+    },
+    {
+      "name": "RiceFlourRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rice_flour_recipe"
+    },
+    {
+      "name": "RiceNoodle",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rice_noodle"
+    },
+    {
+      "name": "RiceNoodleRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rice_noodle_recipe"
+    },
+    {
+      "name": "Weiner",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weiner"
+    },
+    {
+      "name": "WeinerRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "weiner_recipe"
+    },
+    {
+      "name": "PadThai",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pad_thai"
+    },
+    {
+      "name": "PadThaiRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "pad_thai_recipe"
+    },
+    {
+      "name": "HotDog",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_dog"
+    },
+    {
+      "name": "HotDogRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "hot_dog_recipe"
+    },
+    {
+      "name": "Ramen",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ramen"
+    },
+    {
+      "name": "RamenRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "ramen_recipe"
+    },
+    {
+      "name": "GlizzyGobbler",
+      "type": "achievement",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glizzy_gobbler"
+    },
+    {
+      "name": "CottonCandy",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cotton_candy"
+    },
+    {
+      "name": "CottonCandyRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cotton_candy_recipe"
+    },
+    {
+      "name": "CarbonationMachine",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carbonation_machine"
+    },
+    {
+      "name": "CherrySoda",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_soda"
+    },
+    {
+      "name": "CarbonatorRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carbonator_recipe"
+    },
+    {
+      "name": "CherrySodaRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cherry_soda_recipe"
+    },
+    {
+      "name": "CherrySodaRecipe2",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cherry_soda_recipe_2"
+    },
+    {
+      "name": "Cola",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cola"
+    },
+    {
+      "name": "ColaSodaRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cola_soda_recipe"
+    },
+    {
+      "name": "GrapeSoda",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grape_soda"
+    },
+    {
+      "name": "GrapeSodaRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "grape_soda_recipe"
+    },
+    {
+      "name": "LemonLimeSoda",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_lime_soda"
+    },
+    {
+      "name": "LemonLimeSodaRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "lemon_lime_soda_recipe"
+    },
+    {
+      "name": "OrangeSoda",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_soda"
+    },
+    {
+      "name": "OrangeSodaRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "orange_soda_recipe"
+    },
+    {
+      "name": "Frosting",
+      "type": "item",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frosting"
+    },
+    {
+      "name": "FrostingRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "frosting_recipe"
+    },
+    {
+      "name": "SugarCookie",
+      "type": "item",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sugar_cookie"
+    },
+    {
+      "name": "SugarCookieRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "sugar_cookie_recipe"
+    },
+    {
+      "name": "BeansOnToast",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beans_on_toast"
+    },
+    {
+      "name": "BeansOnToastRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "beans_on_toast_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.croptopia_additions.rice_flour": "Rice Flour",
+      "item.croptopia_additions.curry_powder": "Curry Powder",
+      "item.croptopia_additions.pad_thai": "Pad Thai",
+      "item.croptopia_additions.cherry_soda": "Cherry Soda",
+      "item.croptopia_additions.cotton_candy": "Cotton Candy",
+      "item.croptopia_additions.cola": "Cola",
+      "advancements.glizzy_gobbler.title": "Glizzy Gobbler",
+      "item.croptopia_additions.rice_noodle": "Rice Noodle",
+      "item.croptopia_additions.hot_dog": "Hot Dog",
+      "item.croptopia_additions.kraut_dog": "Kraut Dog",
+      "item.croptopia_additions.carbonation_machine": "Soda Carbonator",
+      "item.croptopia_additions.frosting": "Frosting",
+      "item.croptopia_additions.weiner": "Weiner",
+      "item.croptopia_additions.sugar_cookie": "Sugar Cookie",
+      "item.croptopia_additions.grape_soda": "Grape Soda",
+      "advancements.glizzy_gobbler.descr": "Eat a Weiner",
+      "item.croptopia_additions.bratwurst": "Bratwurst",
+      "item.croptopia_additions.ramen": "Ramen",
+      "item.croptopia_additions.beans_on_toast": "Beans On Toast",
+      "item.croptopia_additions.chicken_curry": "Chicken Curry",
+      "item.croptopia_additions.lemon_lime_soda": "Lemon Lime Soda",
+      "item.croptopia_additions.orange_soda": "Orange Soda",
+      "item.croptopia_additions.sauerkraut": "Sauerkraut"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "croptopia_additions",
+    "modName": "Croptopia Additions",
+    "version": "1.0.0",
+    "author": "Ian, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.croptopiaadditions",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200346416
+}
